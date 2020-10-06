@@ -18,6 +18,7 @@ function carousel() {
   slidesArray[slideNum].style.display = "block";
 
   slideNum++;
+
   // Change image every 3 second
   setTimeout(carousel, 3000);
 }
