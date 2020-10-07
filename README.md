@@ -14,5 +14,8 @@
 1. Run: live-server (or a server of your choice to launch the project)
 
 ## Screenshots:
-![](/images/ScreenshotCooking.png)
+### Home Page:
 ![](/images/ScreenshotHome.png)
+### Cooking Page:
+![](/images/ScreenshotCooking.png)
+
