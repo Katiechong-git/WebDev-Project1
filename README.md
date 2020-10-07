@@ -14,5 +14,5 @@
 1. Run: live-server (or a server of your choice to launch the project)
 
 ## Screenshots:
-![](/images/ScreenshotCooking.jpg)
-![](/images/ScreenshotHome.jpg)
+![](/images/ScreenshotCooking.png)
+![](/images/ScreenshotHome.png)
