@@ -9,6 +9,11 @@
   "author": "Katie Chong",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^7.10.0"
+    "@typescript-eslint/eslint-plugin": "^4.4.0",
+    "@typescript-eslint/parser": "^4.4.0",
+    "eslint": "^7.10.0",
+    "eslint-config-prettier": "^6.12.0",
+    "live-server": "^1.2.1",
+    "prettier": "^2.1.2"
   }
 }
